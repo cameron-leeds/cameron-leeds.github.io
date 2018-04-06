@@ -2,10 +2,9 @@
 layout: default
 ---
 
-[Resume](another-page).
+[Resume](CameronLeeds_Resume.pdf).
 [LinkedIn](https://www.linkedin.com/in/cameronleeds/).
 [GitHub](https://github.com/cameron-leeds).
-[Resume](another-page).
 
 ## [](#header-2)About me
 

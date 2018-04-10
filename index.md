@@ -4,5 +4,4 @@
 
 ## [](#header-2)About me
 
-* Long walks on the beach
-* Sunsets
+* Engineer currently looking for new opportunities.

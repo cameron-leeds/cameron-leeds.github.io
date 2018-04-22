@@ -1,7 +1,4 @@
-# Python CircleCI 2.0 configuration file
-#
-# Check https://circleci.com/docs/2.0/language-python/ for more details
-#
+
 version: 2
 jobs:
   build:
@@ -54,3 +51,9 @@ jobs:
           path: test-reports
           destination: test-reports
           
+#deploy
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: cameron-leeds

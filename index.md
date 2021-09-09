@@ -5,4 +5,4 @@
 
 ## [](#header-2)About me
 
-* Engineer/Manager currently looking for new opportunities.
+* Engineer
